@@ -1,2 +1,2 @@
 <?php
-const PAGE_URL = 'http://localhost/Temp/';
+const PAGE_URL = 'http://localhost/Temperatura/';
