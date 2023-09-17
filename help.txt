@@ -1,0 +1,16 @@
+http://localhost/Temp/?page=index
+
+GEt by Date
+http://localhost/Temp/?page=read&method=get&date=2023-09-17
+
+Get by City
+http://localhost/Temp/?page=read&method=get&city=Split
+
+
+Get by City and Date
+http://localhost/Temp/?page=read&method=get&city=Split&date=2023-09-18
+
+
+http://localhost/Temp/?page=create&method=post&city=Split&date=2023-09-23&temperature=20
+Get endpoint Get by City and Date Must define page=read&method=get as example above and set date and city to value you want to search
+
